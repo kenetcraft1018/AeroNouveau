@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "CinaedPH",
+      "uniqueId": "cdf6d92e-56e5-3ad3-989a-c15868f883fe"
+    },
+    "time": 1788622986229,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/PQFLVC8glH"
+    }
+  }
+]
