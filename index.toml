@@ -21,6 +21,10 @@ file = "config/sodium-options.json"
 hash = "fd1432a89492c09f3bd008be6380b2edba3ec98bf15f4b5b307fa4277883ab4b"
 
 [[files]]
+file = "config/xaerohud.txt"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
+
+[[files]]
 file = "mods/AI-Improvements-1.21-0.5.3.jar"
 hash = "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e"
 
@@ -1190,7 +1194,7 @@ hash = "36ee58475c46c56e76c199eebe48dc95aacaa1133512617dcc46053339c2fb5d"
 
 [[files]]
 file = "options.txt"
-hash = "af9cabfcaa8b5aa10f8289b25f924f04e7949cdee77d26523371242a2f9feba1"
+hash = "77c9ff65fa70345907265852b8f9c996a8e7e62f989c2fc8617de0265e1163db"
 
 [[files]]
 file = "servers.dat"
