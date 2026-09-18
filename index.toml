@@ -501,12 +501,32 @@ file = "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar"
 hash = "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
 
 [[files]]
+file = "mods/create-aeronauticstoolgun.pw.toml"
+hash = "32c8ab92ba0a7d1c45b8d11c3cd14a22cb0af15dfd9827ab15ee8a8c3ea0c079"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen-2.6.0.jar"
 hash = "36df9749ca8a994c3b52284554307b47b990a18e43de347527726167614994cb"
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "421fe3905c6a32fbcc3e102dccbde7ee9dc43076c43cab25b0806f1e6b6726b7"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-2.5.3b.jar"
 hash = "02b6bae86ca2f33dc11c8af34324c6c484f1febc6649ec6b04936451590785c1"
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "933542ef6b68b15a91e20f9d87cb1f03546d0081b12c2e489df860fd47b3be28"
+metafile = true
+
+[[files]]
+file = "mods/create-shuffle-filter.pw.toml"
+hash = "e6ce4b0a8c58d8ad284c2c4c2ec19474ef762a6147d1831d4f1954df7741bd3b"
+metafile = true
 
 [[files]]
 file = "mods/create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar"
@@ -1075,6 +1095,11 @@ hash = "fa553bce38bad6fdd478841a270a79a31dc05f87d7892b1cf839850602ac9186"
 [[files]]
 file = "mods/sodium-neoforge-0.8.13+mc1.21.1.jar"
 hash = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "78a821b1555c067aa6a1efb5a8a1a8f467ad958fcf2af7649534d61ea31c510e"
+metafile = true
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
