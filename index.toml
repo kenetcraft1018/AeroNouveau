@@ -34,10 +34,6 @@ file = "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
 hash = "5f3c8d752c2e0464eca8c9527d8ffe498129fd37a2fe86a266b64c98371763b1"
 
 [[files]]
-file = "mods/DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar"
-hash = "b12931cc0c680914e461b478f6a361285870a489bedd3985dee52cd3ce3590c0"
-
-[[files]]
 file = "mods/EMIProfessions-neoforge-1.21.1-1.0.3.jar"
 hash = "69e11dce3193422e0b6edb27d7d50d36e30bec3e85e1a515bf81ca0d69baa44e"
 
@@ -532,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/deployer.pw.toml"
 hash = "b5f93c7de7f0b296533f51c53536c5258a8896c4e30f0fc1bdc3c51fa3b60cb5"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "9455e289fd7ad0975d15199a19c49b13846cda3cb5f5adaacf1febfcb64a0f45"
 metafile = true
 
 [[files]]
