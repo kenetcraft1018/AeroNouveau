@@ -1,0 +1,13 @@
+name = "Tanuki Decor"
+filename = "tanukidecor-21.1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4df072cd6d07804fe20aa6770973b55d8d78f673"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7440111
+project-id = 953094

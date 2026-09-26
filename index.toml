@@ -302,6 +302,11 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/cluttered.pw.toml"
+hash = "503569d1bccf50d580e517550e8f66574d881deac197f30fedb0a18ebb5d3ff4"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "107f1089debe869dc912e119eedbc3f6b523dbdd8193719ba51ce476914f4f5a"
 metafile = true
@@ -1330,6 +1335,11 @@ hash = "4607fa2308f2491b370542a0b5532b5f04b64adc177b62c8e2080d1486a72086"
 metafile = true
 
 [[files]]
+file = "mods/tanukidecor.pw.toml"
+hash = "7dee4eda56c8eade8130531c2a9555fbaff9b72f4f5844eadf43b27f22dad139"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "003fc4f0346ef9fc643692f85236055b820830a531bc284275c3cc7a4ce7c8b3"
 metafile = true
@@ -1382,6 +1392,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "666de5e89e4537b9b758d642952efbd67c25d9d3a88a6ebd481962508851d001"
+metafile = true
+
+[[files]]
+file = "mods/whimsy-deco.pw.toml"
+hash = "327dcd023f8c426acc3f82294f34a3a1489464c8331a948986f656e7c8acad82"
 metafile = true
 
 [[files]]
