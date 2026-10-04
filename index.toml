@@ -1026,6 +1026,10 @@ hash = "8938803461885a35dfad98d00ba94ea4d56926b263e623a53b170a1997e9bb6d"
 metafile = true
 
 [[files]]
+file = "mods/numismaticsdenominations-1.0.0.jar"
+hash = "367cc6c22f91bbb4f2932eb0ba633fd88926e9a5835f1a8a83d6bf848ad0786d"
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "67f092232a92992046932f1f157c883d6a560c6ffe1de61b1fc6c7e83a0a9f52"
 metafile = true
