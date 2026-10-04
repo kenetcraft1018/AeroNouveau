@@ -13,6 +13,10 @@ file = "config/iris.properties"
 hash = "20fe17b6951d38415718088c2990d566be3cab2e3dde41db964a155dffdfe08c"
 
 [[files]]
+file = "config/numismatics-common.toml"
+hash = "148d0ebc6026a60cee0e6287f591b49b84afafd08b37e91be636b1e4aa130bab"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "49897093abfdee204e74740483b2e4d12fa60feb5bca1954e1d5e0fac4c454ba"
 
