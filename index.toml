@@ -117,7 +117,7 @@ hash = "e49a164fa54eae3a14ff93afd4ed7fd5b0e043532985c6608f5b17d1fcbbbac7"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -234,6 +234,11 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "98de570e4873e332455e5526ed5b62779cdb23c217efac51ad864ae510861456"
+metafile = true
+
+[[files]]
 file = "mods/bundle-api.pw.toml"
 hash = "6ba13de15147a3668b8b9272807da65e081dc1516f5581ce050c4aae8c2c109f"
 metafile = true
@@ -297,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
 hash = "d61f777d6fd598fbdfcc07dfeb347c4a57f1dbc3081f77bb46ab09cb58f7caf6"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
@@ -542,6 +552,16 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "10bb7ec65196e7cb6374a3e17aacc56c0ba2e36275ac8747f163ca8fa8a450af"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wire-sable.pw.toml"
+hash = "dfcf0ef42d5dc33213781ebd3bc2c5e0debd9bb6540006d9941a02906fb33601"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wiretypewriter.pw.toml"
+hash = "5dd17d292d4144ff660f69af9172ccc0d7dbd2fecba8dcf069f954d056fadaab"
 metafile = true
 
 [[files]]
