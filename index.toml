@@ -1408,6 +1408,10 @@ hash = "9c1c1d0d4460e3bb0179c79445209039675519082faf7f286625ce0d311eda52"
 metafile = true
 
 [[files]]
+file = "mods/visualborder-1.0.0.jar"
+hash = "57b7bc5e651eac9c1f810bc15b3a7a3ada8a7596329f2ad6f8adacc8465253bd"
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
 metafile = true
