@@ -590,6 +590,11 @@ hash = "8491436f99726aff4cd90644496679665f910b51822d9aac38401d0c70dfc61a"
 metafile = true
 
 [[files]]
+file = "mods/emiaccelerator.pw.toml"
+hash = "2da7854471050221e9f90e3cc9ca8b0a009668251867ba2119e89883cfe318bc"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "1419ef0f7658c4569e37101019d12c8d74e204550d88d8dde81137ff73673e1e"
 metafile = true
@@ -826,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "c6c9fa9c33d538e408fc197d81fa7dd9020940d76db4bff1b4afe1cf496d15b9"
+metafile = true
+
+[[files]]
+file = "mods/jeioptimizer.pw.toml"
+hash = "4ccefe2f0095f7e5e872170111a71fe888c087f1fedaef9aff2ead08db68cdbd"
 metafile = true
 
 [[files]]
