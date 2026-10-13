@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/jeioptimizer.pw.toml"
-hash = "4ccefe2f0095f7e5e872170111a71fe888c087f1fedaef9aff2ead08db68cdbd"
+hash = "f07c235e6228c21e5100c4853a2ed407657dcce1f541f0a5ad7bf2688f218520"
 metafile = true
 
 [[files]]

@@ -1,18 +1,18 @@
 name = "JEIOptimizer"
-filename = "jeioptimizer-1.21.1-1.2.0-19.56.jar"
+filename = "jeioptimizer-1.21.1-1.1.0-19.42.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GRvMb5oF/versions/PLuwRscn/jeioptimizer-1.21.1-1.2.0-19.56.jar"
+url = "https://cdn.modrinth.com/data/GRvMb5oF/versions/pYIhVXxK/jeioptimizer-1.21.1-1.1.0-19.42.jar"
 hash-format = "sha512"
-hash = "ab098314bdd45ae050cb5fa866f8ad8f0ddceb5e1833bce97ab0525adc2ce2085b42abc2aec4795cd5a60fb3ad0205a646172fdd07aa979aa966970a581cdc3e"
+hash = "7115458e6a3be43fde112ac77910298e833e684bd4b338139421a5af6676a6e0550d30a0134c43cca5b76b037facf0b50675f85c0780ae7c6924c4915ee08bda"
 
 [update]
 [update.modrinth]
 mod-id = "GRvMb5oF"
-version = "PLuwRscn"
+version = "pYIhVXxK"
 
 [option]
 optional = true
-description = "JEI Loading Optimizer"
+description = "EMI Loading Accelerator"
 default = true
